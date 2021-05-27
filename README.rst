@@ -30,6 +30,6 @@ I am a Senior Software Engineer at `Crunch.io <https://crunch.io/team/>`_ / YouG
 
 I am a Python passionate (almost addicted).
 
-I am actively involved in the PyCon Italia organization.
+I am actively involved in the `PyCon Italia <https://www.pycon.it>`_ organization.
 
 I do love cooking and eating 🍷 🍝 🥩
