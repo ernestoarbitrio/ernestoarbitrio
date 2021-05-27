@@ -6,16 +6,17 @@ Maybe we have met each other on Twitter `@__pamaron__ <https://twitter.com/__pam
 
 Considering I do not use social networks often, so you probably don't know me! Let me introduce myself: I build analytics software products for a living, I started programming Python in 2008, sometimes I do speak at PyCon conferences.
 
-**Speaking** 📢
-
-I have been speaking for several years at PyCon Italia, PyData and Europython and also some meetups (Pytrento, Python Pizza).
-You can find some of the slides for my talks `here <https://speakerdeck.com/pamaron>`_.
 
 **Personal Projects** 📒
 
 Beside my professional projects I also invest some of my spare time in personal projects:
 
 * `Histolab <https://github.com/histolab/histolab>`_ a library for Digital Pathology Image Processing.
+
+**Speaking** 📢
+
+I have been speaking for several years at PyCon Italia, PyData and Europython and also some meetups (Pytrento, Python Pizza).
+You can find some of the slides for my talks `here <https://speakerdeck.com/pamaron>`_.
 
 **Contact me** 📧
 
