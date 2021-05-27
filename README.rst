@@ -22,7 +22,7 @@ You can find some of the slides for my talks `here <https://speakerdeck.com/pama
 
 * [Twitter] https://twitter.com/__pamaron__
 * [LinkedIn] https://www.linkedin.com/in/ernestoarbitrio
-* ernesto.arbitrio@gmail.com
+* [email] ernesto.arbitrio@gmail.com
 
 **Short Bio** 👤
 
