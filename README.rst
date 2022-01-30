@@ -12,6 +12,7 @@ Considering I do not use social networks often, so you probably don't know me! L
 Beside my professional projects I also invest some of my spare time in personal projects:
 
 * `Histolab <https://github.com/histolab/histolab>`_ a library for Digital Pathology Image Processing.
+* `Pytest Runner <https://github.com/ernestoarbitrio/pytest-runner>`_ a Visual Studio Code extension useful to run ``pytest`` locally and on a 🐳 docker container.
 
 **Speaking** 📢
 
