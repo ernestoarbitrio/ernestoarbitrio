@@ -34,7 +34,3 @@ I am a Python passionate (almost addicted).
 I am actively involved in the `PyCon Italia <https://www.pycon.it>`_ organization.
 
 I do love cooking and eating 🍷 🍝 🥩
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestoarbitrio&show_icons=true&theme=radical)
