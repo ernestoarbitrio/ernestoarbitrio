@@ -31,7 +31,7 @@ I am a Senior Software Engineer at [Crunch.io](https://crunch.io/team/) / YouGov
 
 I am a Python passionate (almost addicted).
 
-[PyCon Italia](https://www.pycon.it) Vicepresident.
+[Python Italia](https://www.pycon.it) Vicepresident.
 
 I do love cooking and eating 🍷 🍝 🥩
 
