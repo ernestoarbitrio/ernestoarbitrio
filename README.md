@@ -21,7 +21,7 @@ You can find some of the slides for my talks [here](https://speakerdeck.com/pama
 
 **Contact me** 📧
 
-* [Twitter] https://twitter.com/__pamaron__
+* [Mastodon] https://mastodon.social/@pamaron
 * [LinkedIn] https://www.linkedin.com/in/ernestoarbitrio
 * [email] ernesto.arbitrio@gmail.com
 
