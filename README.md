@@ -2,7 +2,7 @@
 
 I am *Ernesto Arbitrio* a 🇮🇹 Software Engineer turned *Senior* Software Engineer when I turned 36 😏.
 
-Maybe we have met each other on Twitter [@__pamaron__](https://twitter.com/__pamaron__) or GitHub [@ernestoarbitrio](https://github.com/ernestoarbitrio) before.
+Maybe we have met each other on Mastodon [@pamaron](https://mastodon.social/@pamaron) or GitHub [@ernestoarbitrio](https://github.com/ernestoarbitrio) before.
 
 Considering I do not use social networks often, so you probably don't know me! Let me introduce myself: I build analytics software products for a living, I started programming Python in 2008, sometimes I do speak at PyCon conferences.
 
