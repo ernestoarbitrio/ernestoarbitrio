@@ -1,4 +1,4 @@
-**Ciao!** 👋
+<img src=https://ernesto.arbitrio.fyi/about/me-avatar_hu420202596282925777.png width=75> **Ciao!** 👋
 
 I am *Ernesto Arbitrio* a 🇮🇹 Software Engineer turned *Senior* Software Engineer when I turned 36 😏.
 
